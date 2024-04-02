@@ -18,6 +18,7 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - garth-jekyll-theme.gemspec
+- about.md
 
 # 2. Installed Gems
 plugins:
@@ -36,7 +37,7 @@ timezone: America/Los_Angeles # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
-  posts:
+  #posts:
     title: CECV online worship # Needed for Siteleaf
     output: true
     description: |-
