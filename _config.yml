@@ -37,7 +37,7 @@ timezone: America/Los_Angeles # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
-  posts:
+  empty:
     title: CECV online worship # Needed for Siteleaf
     output: true
     description: |-
@@ -50,15 +50,15 @@ defaults:
   -
     scope:
       path: ""
-      type: "" #pages
+      type: pages
     values:
-      layout: "" #page # Default layout
+      layout: page # Default layout
   -
     scope:
       path: ""
-      type: "" #posts
+      type: posts
     values:
-      layout: "" #post # Default layout
+      layout: post # Default layout
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
