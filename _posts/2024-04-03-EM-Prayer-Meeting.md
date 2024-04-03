@@ -10,8 +10,7 @@ Dear Brothers and Sisters,
 
 Elder David will lead the prayer tonight. I won’t be able to make it tonight.
 
-Here is the _[link](https://us02web.zoom.us/j/81876410063?pwd=MFQwcmVjeldzNDZEZjk4K1BRbGQ1Zz09)_ for the prayer meeting:
+Here is the _[link](https://us02web.zoom.us/j/81876410063?pwd=MFQwcmVjeldzNDZEZjk4K1BRbGQ1Zz09)_ for the prayer meeting.<br><br>
 
-
-Blessings,
+Blessings,<br>
 Lucien
