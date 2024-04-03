@@ -3,7 +3,7 @@ title: EM Prayer Meeting
 category: zoom meeting
 ---
 
-Please click _[EM Prayer Meeting](https://us02web.zoom.us/j/81876410063?pwd=MFQwcmVjeldzNDZEZjk4K1BRbGQ1Zz09)_ to join worship online with us!
+Please click _[EM Prayer Meeting](https://us02web.zoom.us/j/81876410063?pwd=MFQwcmVjeldzNDZEZjk4K1BRbGQ1Zz09)_ to pray with us online!
 
 <!-- more -->
 Dear Brothers and Sisters,
