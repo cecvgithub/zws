@@ -38,7 +38,7 @@ timezone: America/Los_Angeles # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: CECV online worship # Needed for Siteleaf
+    title: CECV online meetings # Needed for Siteleaf
     output: true
     description:
 
